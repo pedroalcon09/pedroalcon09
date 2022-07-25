@@ -1,7 +1,7 @@
 ### Olá, me chamo Pedro Alcon 👋
 
-- 🔭 Monitor Módulo 1 Kenzie Academy Brasil
-- 🌱 Estudando Django
+- 🔭 Monitor Módulo 5 Kenzie Academy Brasil
+- 🌱 Montando projeto Full-Stack
 - 📫 Contato via pedro09alcon@gmail.com
 
   <div alignS="center">

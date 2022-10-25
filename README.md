@@ -1,7 +1,6 @@
 ### Olá, me chamo Pedro Alcon 👋
 
-- 🔭 Monitor Módulo 5 Kenzie Academy Brasil
-- 🌱 Montando projeto Full-Stack
+- 🔭 Desenvolvedor Front-End na BuiltGrid
 - 📫 Contato via pedro09alcon@gmail.com
 
   <div alignS="center">

@@ -1,6 +1,6 @@
 ### Olá, me chamo Pedro Alcon 👋
 
-- 🔭 Desenvolvedor Front-End na BuiltGrid
+- 🔭 Desenvolvedor Full-Stack na BuiltGrid
 - 📫 Contato via pedro09alcon@gmail.com
 
   <div alignS="center">
